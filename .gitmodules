@@ -1,0 +1,3 @@
+[submodule "plugins/@Simply007"]
+	path = plugins/@Simply007
+	url = https://github.com/Simply007/gatsby-source-kontent-simple
